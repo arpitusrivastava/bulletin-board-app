@@ -1,6 +1,8 @@
-For Tutorial purposes
+Published for Tutorial purposes
 -------------------------------
 
+
+-------------------------------
 Original readme.md:
 ## Vue Events Bulletin Board
 
